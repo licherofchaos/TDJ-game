@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/10.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/11.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/12.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/13.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/14.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/15.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/16.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/17.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/18.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/5.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/6.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/7.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/8.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/assets/orig/images/9.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/background.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/background1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/BackgroundMusic.mp3</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/bullet.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/explosion1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/explosion2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/explosion3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/File.spritefont</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/Gunfire2.wav</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_10.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_11.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_12.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_13.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_14.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_15.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_16.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_17.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_18.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_19.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_20.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_21.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_22.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_23.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_24.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_25.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_26.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_27.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_28.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_5.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_6.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_7.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_8.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/idle/idle_9.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek10.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek11.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek12.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek5.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek6.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek7.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek8.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/snek9.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_5.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_6.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/NPC/sprite_7.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/tileset1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/tileset2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/tileset3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/tileset4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/walk/walk_1.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/walk/walk_2.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/walk/walk_3.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/walk/walk_4.png</File>
+    <File>C:/Users/Licher/Desktop/TDJ-master/Content/win.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Immortal.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

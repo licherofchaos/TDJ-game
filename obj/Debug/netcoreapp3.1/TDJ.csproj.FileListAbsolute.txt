@@ -1,0 +1,218 @@
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\10.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\11.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\12.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\13.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\14.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\15.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\16.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\17.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\18.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\5.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\6.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\7.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\8.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\9.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\background1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\BackgroundMusic.ogg
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\BackgroundMusic.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\bullet.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\Gunfire2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_10.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_11.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_12.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_13.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_14.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_15.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_16.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_17.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_18.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_19.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_20.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_21.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_22.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_23.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_24.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_25.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_26.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_27.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_28.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_5.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_6.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_7.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_8.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_9.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\Immortal.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek10.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek11.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek12.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek5.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek6.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek7.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek8.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek9.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_5.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_6.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_7.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_1.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_2.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_3.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_4.xnb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.exe
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.deps.json
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.runtimeconfig.json
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.runtimeconfig.dev.json
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.pdb
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Genbox.VelcroPhysics.MonoGame.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.AssemblyReference.cache
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.AssemblyInfoInputs.cache
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.AssemblyInfo.cs
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.CoreCompileInputs.cache
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.CopyComplete
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.dll
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.pdb
+C:\Users\Licher\Desktop\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.genruntimeconfig.cache
+C:\Users\Licher\Desktop\TDJ-master\bin\Debug\netcoreapp3.1\Content\win.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.exe
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\10.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\11.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\12.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\13.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\14.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\15.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\16.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\17.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\18.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\5.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\6.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\7.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\8.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\assets\orig\images\9.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\background1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\BackgroundMusic.ogg
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\BackgroundMusic.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\bullet.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\explosion3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\Gunfire2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_10.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_11.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_12.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_13.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_14.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_15.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_16.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_17.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_18.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_19.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_20.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_21.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_22.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_23.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_24.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_25.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_26.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_27.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_28.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_5.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_6.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_7.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_8.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\idle\idle_9.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\Immortal.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek10.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek11.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek12.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek5.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek6.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek7.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek8.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\snek9.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_5.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_6.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\NPC\sprite_7.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\tileset4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_1.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_2.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_3.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\walk\walk_4.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Content\win.xnb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.deps.json
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.runtimeconfig.json
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.runtimeconfig.dev.json
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\TDJ.pdb
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Genbox.VelcroPhysics.MonoGame.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.AssemblyReference.cache
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.AssemblyInfoInputs.cache
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.AssemblyInfo.cs
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.CoreCompileInputs.cache
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.csproj.CopyComplete
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.dll
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.pdb
+C:\Users\Licher\Desktop\New folder\TDJ-master\obj\Debug\netcoreapp3.1\TDJ.genruntimeconfig.cache
